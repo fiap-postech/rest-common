@@ -1,0 +1,5 @@
+[versions]
+domainCommonVersion="1.0.3"
+
+[libraries]
+domain-common = { group = "br.com.fiap.tech.challenge", name = "domain-common", version.ref = "domainCommonVersion"}
